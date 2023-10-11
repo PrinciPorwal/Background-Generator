@@ -37,3 +37,17 @@
     height: 6vh;
     padding: 10px;
 }
+@media only screen and (max-width: 550px) {
+    .btn1{
+    width: 15vw;
+    height: 5vh;
+    }
+    .btn2{
+        width: 15vw;
+        height: 5vh;
+        }
+        .btn3{
+            width: 20vw;
+            height: 10vh;
+            }
+}
